@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Web Development
 - 📚 Software Engineer | Full Stack Developer | Front end | Back end | Javascript | React | Node.js | Typescript
 - 📫 How to reach me: email: oscarfgmaia@gmail.com
+- https://www.linkedin.com/in/oscarfgmaia/
 
 <hr/>
 <h3>🖥️ Tools, languages, and other things that I like to work with:<h3/>
