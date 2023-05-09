@@ -4,7 +4,7 @@
 - 📫 How to reach me: email: <a href = "mailto: oscarfgmaia@gmail.com">oscarfgmaia@gmail.com</a>
 - 🌐 <a href="https://www.linkedin.com/in/oscarfgmaia/">https://www.linkedin.com/in/oscarfgmaia/</a>
 <hr/>
-## **🖥️ Tools, languages, and other things that I like to work with:** 
+## 🖥️ Tools, languages, and other things that I like to work with:
 
 #### **Front-end**
 
@@ -33,4 +33,10 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
   
+</div>
+
+<div style="display: flex" align="center">
+   <h2 align="center">How to contact me!</h2>
+   <a href = "mailto:oscarfgmaia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/oscarfgmaia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
