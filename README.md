@@ -3,12 +3,8 @@
 - 📚 Software Engineer | Full Stack Developer | Front end | Back end | Javascript | React | Node.js | Typescript
 - 📫 How to reach me: email: <a href = "mailto: oscarfgmaia@gmail.com">oscarfgmaia@gmail.com</a>
 - 🌐 <a href="https://www.linkedin.com/in/oscarfgmaia/">https://www.linkedin.com/in/oscarfgmaia/</a>
-
 <hr/>
-<h3>🖥️ Tools, languages, and other things that I like to work with:<h3/>
- <div style="display: inline_block" "margin-bottom : 15"><br>
-
-## **Technologies** 
+## **🖥️ Tools, languages, and other things that I like to work with:** 
 
 #### **Front-end**
 
