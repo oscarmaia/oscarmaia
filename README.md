@@ -2,7 +2,7 @@
 - 🌱 I'm seeking a Software Engineer position in a collaborative, innovative company with a customer focus that utilizes modern technologies.
 - 📚 Software Engineer | Full Stack Developer
 - 📫 How to reach me: email: <a href = "mailto: oscarfgmaia@gmail.com">oscarfgmaia@gmail.com</a>
-- 🌐 <a href="https://www.linkedin.com/in/oscarfgmaia/">https://www.linkedin.com/in/oscarfgmaia/</a>
+- 🌐 <a href="https://www.linkedin.com/in/oscarfgmaia/" target="_blank">https://www.linkedin.com/in/oscarfgmaia/</a>
 <hr/>
 ## 🖥️ Tools, languages, and other things that I like to work with:
 
